@@ -20,4 +20,4 @@ This is my first app using django, I have added home, and about pages, that inhe
 
 ## Pull Request
 
-[Pull Request Link](https://github.com/moh-ash96/django-snacks/pulls/1)
+[Pull Request Link](https://github.com/moh-ash96/django-snacks/pull/1)
